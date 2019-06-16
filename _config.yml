@@ -9,7 +9,7 @@ author:
 encoding: UTF-8
 future: true
 include:
-  - PAST_MEETUPS.md
+  - past.md
   - README.md
 pages_list:
   Home: '/'
