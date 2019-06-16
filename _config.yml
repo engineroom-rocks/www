@@ -12,6 +12,9 @@ include:
   - past.md
   - index.md
   - README.md
+kramdown:
+  input: GFM
+  hard_wrap: false
 pages_list:
   Home: '/'
   Past: '/past'
