@@ -1,8 +1,14 @@
+title: Title
+description: Description
 encoding: UTF-8
 github:
   hostname: www2.engineroom.rocks
   project_title: EngineRoom title
+  title: Title
+  description: Description
   repository:
     name: "EngineRoom repository"
+plugins:
+  - jekyll-seo-tag
 theme: jekyll-theme-hacker
 timezone: Asia/Singapore
