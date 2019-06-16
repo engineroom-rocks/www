@@ -10,6 +10,7 @@ encoding: UTF-8
 future: true
 include:
   - past.md
+  - index.md
   - README.md
 pages_list:
   Home: '/'
