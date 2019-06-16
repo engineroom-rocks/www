@@ -1,1 +1,8 @@
+encoding: UTF-8
+github:
+  hostname: www2.engineroom.rocks
+  project_title: EngineRoom title
+  repository:
+    name: "EngineRoom repository"
 theme: jekyll-theme-hacker
+timezone: Asia/Singapore
