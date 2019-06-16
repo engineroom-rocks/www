@@ -1,11 +1,6 @@
-version: 0.0.1
 name: EngineRoom Singapore
 title: Welcome to EngineRoom Singapore
 description: Our one-pager on all things EngineRoom
-author:
-  name: "EngineRoom"
-  url: "https://engineroom.rocks"
-  email: "the.engineroom.sg@gmail.com"
 encoding: UTF-8
 future: true
 include:
@@ -28,8 +23,5 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 permalink: pretty
-relative_links:
-  enabled: true
-  collections: true
 theme: minima
 timezone: Asia/Singapore
