@@ -1,3 +1,1 @@
-# EngineRoom
-
-## A Meta-Technical Social Meetup
+Check out: http://www2.engineroom.rocks
