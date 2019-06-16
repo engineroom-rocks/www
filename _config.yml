@@ -6,6 +6,9 @@ future: true
 include:
   - PAST_MEETUPS.md
   - README.md
+pages_list:       
+  Home: '/'
+  Past: '/past'
 plugins:
   - jekyll-avatar
   - jekyll-feed
