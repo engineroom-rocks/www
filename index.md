@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Welcome to EngineRoom SG
 ---
 
-# EngineRoom
+# Welcome to EngineRoom SG
 
 ## A Meta-Technical Social Meetup
