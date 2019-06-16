@@ -3,13 +3,20 @@ title: Welcome to EngineRoom Singapore
 description: Our one-pager on all things EngineRoom
 encoding: UTF-8
 future: true
+include:
+  - PAST_MEETUPS.md
+  - README.md
 plugins:
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-avatar
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+relative_links:
+  enabled: true
+  collections: true
 theme: jekyll-theme-hacker
 timezone: Asia/Singapore
