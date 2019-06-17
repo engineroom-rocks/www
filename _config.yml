@@ -8,13 +8,10 @@ include:
   - past.md
   - index.md
   - README.md
+  - _posts/*.md
 kramdown:
   input: GFM
   hard_wrap: false
-pages_list:
-  Home: '/'
-  Past: '/past'
-  Speak: '/speak'
 plugins:
   - jekyll-avatar
   - jekyll-feed

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Meetup Number 1
-date: 2019-05-08T20:00:00.000Z
 categories: meetup first
 published: true
 ---
