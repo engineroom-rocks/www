@@ -5,7 +5,6 @@ encoding: UTF-8
 future: true
 include:
   - speak.md
-  - past.md
   - index.md
   - README.md
   - _posts/*.md
