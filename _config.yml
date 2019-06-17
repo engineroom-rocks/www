@@ -4,6 +4,7 @@ description: Our one-pager on all things EngineRoom
 encoding: UTF-8
 future: true
 include:
+  - speak.md
   - past.md
   - index.md
   - README.md
@@ -13,6 +14,7 @@ kramdown:
 pages_list:
   Home: '/'
   Past: '/past'
+  Speak: '/speak'
 plugins:
   - jekyll-avatar
   - jekyll-feed

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to EngineRoom SG
+title: Home
 ---
 
 # Welcome to EngineRoom SG
