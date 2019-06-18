@@ -6,6 +6,7 @@ future: true
 include:
   - speak.md
   - index.md
+  - meetups.md
   - README.md
   - _posts/*.md
 kramdown:
