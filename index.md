@@ -1,9 +1,8 @@
 ---
 layout: home
-title: theREADME
 ---
 
-# Welcome to EngineRoom SG
+## Welcome to EngineRoom SG
 
 > A social meetup for professionals in code.
 
