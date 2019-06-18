@@ -1,4 +1,9 @@
 ---
 layout: home
-title: Our Meetups
+title: Meetups
+list_title: Upcoming & Past Meetups
 ---
+
+## *so you wanna join in? here's our...*
+
+

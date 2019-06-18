@@ -1,6 +1,6 @@
-name: EngineRoom Singapore
-title: EngineRoom SG
-description: Our one-pager on all things EngineRoom
+name: EngineRoom 🇸🇬 
+title: EngineRoom 🇸🇬 
+description: EngineRoom 🇸🇬 
 encoding: UTF-8
 future: true
 include:
@@ -9,6 +9,7 @@ include:
   - meetups.md
   - README.md
   - _posts/*.md
+google_analytics: UA-142320208-1
 kramdown:
   input: GFM
   hard_wrap: false
