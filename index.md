@@ -1,5 +1,6 @@
 ---
 layout: home
+list_title: Past Meetups
 ---
 
 ## Welcome to EngineRoom SG
