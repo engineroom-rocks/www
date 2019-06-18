@@ -7,6 +7,10 @@ title: theREADME
 
 > A social meetup for professionals in code.
 
+<div style="text-align: center;">
+  <img src="/static/engineroom.png" style="max-width: 200px;" />
+</div>
+
 # Questions we hope to answer
 
 You should definitely drop by if any of these questions ring true with you:
