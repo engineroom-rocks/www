@@ -7,7 +7,6 @@ include:
   - speak.md
   - index.md
   - meetups.md
-  - README.md
   - _posts/*.md
 google_analytics: UA-142320208-1
 kramdown:
