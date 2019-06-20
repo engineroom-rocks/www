@@ -20,6 +20,10 @@ We use Jekyll with GitHub Pages to publish this webpage. You'll need the followi
 2. Navigate to `./_posts` and observe the newly created post titled `YYYY-MM-DD-meetup-new.md`
 3. Make your changes, commit, and push!
 4. Go to [ti.to](https://ti.to), duplicate last month's meetup and add in details as necessary
+5. Confirm that the following are aligned:
+   1. Telegram message
+   2. Tito event homepage
+   3. Email template
 
 ## Updating the Template
 
