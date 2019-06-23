@@ -2,6 +2,10 @@
 layout: home
 title: Home
 list_title: Upcoming & Past Meetups
+image:
+  path: https://github.com/engineroom-rocks/www/raw/master/__resources/images/icon/icon_dark_flat.png
+  height: 2048
+  width: 2048
 ---
 
 <div style="text-align: center;">
