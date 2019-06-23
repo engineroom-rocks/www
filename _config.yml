@@ -8,6 +8,7 @@ include:
   - index.md
   - meetups.md
   - join-the-team.md
+  - sponsor-us.md
   - _posts/*.md
 google_analytics: UA-142320208-1
 kramdown:

@@ -25,4 +25,13 @@ list_title: Upcoming & Past Meetups
 
 We had these questions too (we hope we're not weird - join us to assure us xD)
 
+## Other channels to find us
+- [Telegram](https://t.me/engineroom_rocks) - we notify members of events here
+- [Facebook](https://www.facebook.com/engineroom.rocks) - we share technology-independent affairs in software engineering here
+- [Tito](https://ti.to/engine-room) - we use this for getting a namelist for building security
+- [GitHub](https://github.com/engineroom-rocks) - our home (:
+- [Website](https://engineroom.rocks) - you're here!
+
+- - -
+
 **P.S.** Looking to speak? Check out [our guidelines](/speak) and submit an overview of your talk!
